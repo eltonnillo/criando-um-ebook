@@ -25,11 +25,11 @@ ChatGPT：
 | conteúdo | Estou criando um ebook com o título "Detetive dos Dados: Desvendando o Básico do SQL". O conteúdo é direcionado para um público que está tendo o primeiro contato com SQL e usará o ebook para fazer as suas primeiras consultas. Crie o conteúdo para o ebook. Apresente de forma clara e objetiva os conceitos e comandos essenciais. Apresente exemplos que facilitem o entendimento do conteúdo e que estejam associados a cartões de crédito.  |
 
 
-Midjourney：
+Copilot：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Crie uma imagem de uma lupa de detetive vendo a tela de um computador com códigos de programação. Fundo branco. Tema de números. O fundo da imagem é branco. |
 
 ## ✨ Features
 
