@@ -12,7 +12,7 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 
 - [ChatGPT](https://chat.openai.com/) 
 - [Copilot](https://copilot.microsoft.com/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Canva](https://www.canva.com)
 
 ## 🧠 Prompts
 
@@ -29,16 +29,15 @@ Copilot：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | Crie uma imagem de uma lupa de detetive vendo a tela de um computador com códigos de programação. Fundo branco. Tema de números. O fundo da imagem é branco. |
+| título | Crie uma ícone de uma lupa de detetive em verde, preto e branco. Imagem simples e com contornos arredondados. |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens e inspirações de composições visuais geradas via Copilot
 
 ## 📚 Materiais
 
-- Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
 
 ## 🛠️ Instruções de execução
