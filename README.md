@@ -22,8 +22,10 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de ebook com a temática de conceitos básicos de SQL. Use temática de investigação, detetive e descoberta. Liste 4 variações.                                                        |
+| conteúdo | Estou criando um ebook com o título "Detetive dos Dados: Desvendando o Básico do SQL". O conteúdo é direcionado para um público que está tendo o primeiro contato com SQL e usará o ebook para fazer as suas primeiras consultas.
+
+Crie o conteúdo para o ebook. Apresente de forma clara e objetiva os conceitos e comandos essenciais. Apresente exemplos que facilitem o entendimento do conteúdo e que estejam associados a cartões de crédito.  |
 
 
 Midjourney：
